@@ -4,7 +4,7 @@ This page corresponds to the `/` route of your website. You can delete it or cre
 
 Try to navigate to [/about](/about). These 2 pages are rendered by the `pages/[...slug].vue` component.
 
-This is some content that I would like to add to this document. 
+This is some content that I would like to add to this document.
 
 # Heading 1
 
